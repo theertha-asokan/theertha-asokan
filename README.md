@@ -1,7 +1,7 @@
 
 # Hello, World! 🌎
 
-Welcome to my GitHub profile! I'm Theertha Asokan, a passionate developer, tester, and occasional over-thinker. Here's a sneak peek into who I am:
+Welcome to my GitHub profile! I'm Theertha Asokan, a passionate developer, Analyst, and occasional over-thinker. Here's a sneak peek into who I am:
 
 ### 👩‍💻 About Me
 - 💼 Business Analyst and Tech Enthusiast.
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Theertha Asokan, a passionate developer, teste
 
 ### 🤓 Fun Facts
 - 🎨 Can sketch better ideas than I can sketch drawings.
-- 
+
 ### 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, SQL
 - **Tools:** Git, Selenium, Figma, JIRA
@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm Theertha Asokan, a passionate developer, teste
 - 🏗️ Projects I'm building.
 - 🔍 Solutions to problems I've faced.
 - ✨ A sprinkle of humor and creativity.
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/theertha-asokan)
