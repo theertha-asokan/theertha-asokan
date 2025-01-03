@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Theertha Asokan, a passionate developer, Analy
 ### 👩‍💻 About Me
 - 💼 Business Analyst and Tech Enthusiast.
 - 🛠️ Crafting code and debugging like a ninja.
-- 🎉 Known for breaking things (professionally, of course) before fixing them.
+- 🎉 Known for breaking things (professionally(!only), of course) before fixing them.
 
 ### 🤓 Fun Facts
 - 🎨 Can sketch better ideas than I can sketch drawings.
