@@ -1,7 +1,6 @@
 
-# Hello, World! 🌎
-
-Welcome to my GitHub profile! I'm Theertha Asokan, a passionate developer, Analyst, and occasional over-thinker. Here's a sneak peek into who I am:
+# Hi,
+I'm Theertha Asokan, an Analyst, and occasional over-thinker. Here's a sneak peek into who I am:
 
 ### 👩‍💻 About Me
 🔭 Exploring opportunities in tech and analysis.  
