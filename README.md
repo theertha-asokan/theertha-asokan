@@ -4,22 +4,23 @@
 Welcome to my GitHub profile! I'm Theertha Asokan, a passionate developer, Analyst, and occasional over-thinker. Here's a sneak peek into who I am:
 
 ### 👩‍💻 About Me
-- 💼 Business Analyst and Tech Enthusiast.
-- 🛠️ Crafting code and debugging like a ninja.
-- 🎉 Known for breaking things (professionally(!only), of course) before fixing them.
+🔭 Exploring opportunities in tech and analysis.  
+🏢 Currently working as an IT Business Analyst.  
+🌱 Skilled in process mapping, data analysis, solution design, and Business Intelligence.  
+💬 Let’s discuss how analysis drives better business decisions. 
 
 ### 🤓 Fun Facts
 - 🎨 Can sketch better ideas than I can sketch drawings.
+- 🎉 Known for breaking things (professionally(!only), of course) before fixing them.
 
-### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, SQL
-- **Tools:** Git, Selenium, Figma, JIRA
-- **Favorite Tech:** Markdown (for making docs like this one 😉)
+### 🛠️ Tech Stack  
+- **Python:** (maybe I’m toxic, that’s why I love Python)  
+- **SQL:** (It obeys all the commands, satisfying my urge to be royal)  
+- **Power BI:** (turning dull numbers into a visual masterpiece)  
+- **Tableau:** (you know aaaart : for juswt to say yeah i kno tableau)  
+- **API integration:** (I don’t like 3rd parties, haaah...., but sometimes they make life easier)  
+- **Agile methodologies:** (because waterfalls are beautiful, but got no time to watch.)  
 
-### 🌟 What You'll Find Here
-- 🏗️ Projects I'm building.
-- 🔍 Solutions to problems I've faced.
-- ✨ A sprinkle of humor and creativity.
 
 
 
