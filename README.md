@@ -22,6 +22,6 @@ Welcome to my GitHub profile! I'm Theertha Asokan, a passionate developer, Analy
 - **Agile methodologies:** (because waterfalls are beautiful, but got no time to watch.)  
 
 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/theertha-asokan)
+Connect with me on 
+ 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/theertha-asokan)
