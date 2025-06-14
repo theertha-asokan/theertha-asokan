@@ -10,16 +10,7 @@ I'm Theertha Asokan, an Analyst, and occasional over-thinker. Here's a sneak pee
 
 ### 🤓 Fun Facts
 - 🎨 Can sketch better ideas than I can sketch drawings.
-- 🎉 Known for breaking things (professionally(!only), of course) before fixing them.
-
-### 🛠️ Tech Stack  
-- **Python:** (maybe I’m toxic, that’s why I love Python)  
-- **SQL:** (It obeys all the commands, satisfying my urge to be royal)  
-- **Power BI:** (turning dull numbers into a visual masterpiece)  
-- **Tableau:** (you know aaaart : for just to say yeah i kno tableau)  
-- **API integration:** (I don’t like 3rd parties, haaah...., but sometimes they make life easier)  
-- **Agile methodologies:** (because waterfalls are beautiful, but got no time to watch.)  
-
+- 🎉 I love breaking things before fixing them.
 
 Connect with me on 
  
